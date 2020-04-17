@@ -1,0 +1,15 @@
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\Trace\Angular8 Inline Table Editing with Asp.Net Core WebAPI\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
